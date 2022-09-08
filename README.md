@@ -10,7 +10,7 @@ Former nurse, interested in all things languages, art, photography and medicine,
 
 - ⚡ I own a mass-language [Discord server](https://discord.gg/XPms3Xbefc) where community members exchange their knowledge, find language partners and collect language-learning resources
 
-<sub> Profile picture made with [WAS's Disco Diffusion Colab](https://rebrand.ly/portrait-playground) using my face as a base </sub>
+<sub> Profile picture made with [WAS's Disco Diffusion Colab](https://rebrand.ly/portrait-playground) (fork of [Disco Diffusion](https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb)) using my face as a base </sub>
 
 <!--
 **semaeostomea/semaeostomea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
